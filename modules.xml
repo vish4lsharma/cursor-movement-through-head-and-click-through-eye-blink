@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/EyeControlledCursor.iml" filepath="$PROJECT_DIR$/.idea/EyeControlledCursor.iml" />
+    </modules>
+  </component>
+
+  <component name="ProjectRootManager" version="2"
+             project-jdk-name="Python 3.6.1 (C:\Users\Vishal\AppData\Local\Programs\Python\Python36-32\python.exe)"
+             project-jdk-type="Python SDK" />
+
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="SomeLibraryName" level="project" />
+  </component>
+
+  <component name="TestRunnerService">
+    <option name="PROJECT_TEST_RUNNER" value="Unittests" />
+  </component>
+
+  <component name="PythonSettings">
+    <option name="INTERPRETER_PATH" value="C:\Users\Vishal\AppData\Local\Programs\Python\Python36-32\python.exe" />
+    <option name="TEST_RUNNER" value="pytest" />
+  </component>
+  
+  <component name="ProjectTypeService">
+    <option name="PROJECT_TYPE" value="Python" />
+  </component>
+</project>
